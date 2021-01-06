@@ -1,4 +1,4 @@
-package pxr180025;
+package LinkedList;
 import java.util.Iterator;
 import java.util.Scanner;
 import java.util.NoSuchElementException;
