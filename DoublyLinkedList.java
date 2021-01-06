@@ -1,4 +1,4 @@
-package pxs180053;
+package LinkedList;
 
 import java.util.Iterator;
 import java.util.Scanner;
